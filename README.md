@@ -1,7 +1,5 @@
 # 🤌🏼 `whoami`
 
-🙋🏼‍♂️ I'm Lucas Dondo, but you may call me Dondi. 🤙🏼
-
 ## 📚 Books I've learnt from
 
 ### 📕 Technical
