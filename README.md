@@ -6,6 +6,7 @@
 
 - 🐿️ [The Little Go Book](https://openmymind.net/The-Little-Go-Book) by Karl Seguin
 - 🐍 [Python Crash Course](https://nostarch.com/python-crash-course-3rd-edition) by Eric Matthes
+- 🌐 [Computer Networking](https://pearson.com/en-us/subject-catalog/p/computer-networking-a-top-down-approach/P200000013385) by James Kurose
 - 🟨 [Eloquent JavaScript](https://eloquentjavascript.net) by Marijn Haverbeke
 - 🎨 [GUI development with Rust and GTK4](https://gtk-rs.org/gtk4-rs/stable/latest/book) by Julian Hofer
 - 🦀 [The Rust Programming Language](https://doc.rust-lang.org/book) by Steve Klabnik, Carol Nichols and Chris Krycho
