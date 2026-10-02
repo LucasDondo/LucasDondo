@@ -18,3 +18,7 @@
 - 🤔 [The Mythical Man-Month: Essays on Software Engineering](https://wikipedia.org/wiki/The_Mythical_Man-Month) by Fred Brooks
 - 🧘🏼‍♂️ [Calm Technology: Principles and Patterns for Non-Intrusive Design](https://oreilly.com/library/view/calm-technology/9781491925874) by Amber Case
 - 🌉 [Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure](https://fordfoundation.org/learning/library/research-reports/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure) by Nadia Eghbal
+
+# 👐🏼 Open source contributions
+
+Most of my contributions can be seen [here in GitHub](https://github.com/LucasDondo), but some other are for KDE projects in [their GitLab](https://invent.kde.org/users/lucasdondo/activity), and others in [GNOME's GitLab](https://gitlab.gnome.org/LucasDondo).
